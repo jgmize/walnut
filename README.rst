@@ -9,7 +9,7 @@ Summary
 -------
 
 A cross-process/cross-host Redis-based memoizing decorator in Python for
-asynchronous (and sycnhronous) functions in Twisted
+asynchronous (and synchronous) functions in Twisted
 `Twisted <http://twistedmatrix.com>`__ applications.
 
 Installing
